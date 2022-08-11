@@ -14,3 +14,6 @@ Vuetify	2.6.0	Material Design component framework for Vue.js
 ```
 - This would be the first time that I used Vue as my framework, a bit of a learning curve.
 ```
+```
+- Was not able to setup the unit tests - but i'll be updating this with unit tests.
+```
