@@ -35,8 +35,8 @@
 }
 
 .card-preview {
-  width: 80%;
-  height: 400px;
+  width: 90%;
+  height: auto;
   border: 1px solid #3f3f3f;
   margin: 0 auto;
   background: #fff;
@@ -50,8 +50,8 @@
 .card-body {
   padding: 20px;
   display: grid;
-  grid-template-columns: 0.2fr 0.75fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 0.2fr 1fr;
+  grid-template-rows: 40px 40px 1fr 40px 40px 40px;
   padding-left: 1.5em;
   padding-top: 1.5em;
   -webkit-box-align: end;
