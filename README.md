@@ -1,24 +1,16 @@
-# hcard
+# Frontend Development Test
 
-## Project setup
-```
-yarn install
-```
+Results
+![image](https://user-images.githubusercontent.com/9839406/184176856-9b1e721a-c91b-467e-90ef-89a3cbe36aac.png)
 
-### Compiles and hot-reloads for development
+# Libraries
 ```
-yarn serve
+Vue.js	2.6.14	JavaScript Framework
 ```
-
-### Compiles and minifies for production
 ```
-yarn build
+Vuetify	2.6.0	Material Design component framework for Vue.js
 ```
-
-### Lints and fixes files
+# Challenges
 ```
-yarn lint
+- This would be the first time that I used Vue as my framework, a bit of a learning curve.
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
